@@ -10,7 +10,6 @@
 
 1. Clone the repository:
    git clone https://github.com/Nikeytas/MindTime-Questionnaire.git
-   cd MindTime-Questionnaire/mindtime-fe
 
 2. Install the dependencies:
    npm install
