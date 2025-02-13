@@ -1,5 +1,23 @@
 # MindTime-Questionnaire
 
+## Technology Stack
+
+- **Frontend:** TypeScript, React, Vite
+- **State Management:** Redux
+- **Styling:** Tailwind CSS
+
+## Setup and Installation
+
+1. Clone the repository:
+   git clone https://github.com/Nikeytas/MindTime-Questionnaire.git
+   cd MindTime-Questionnaire/mindtime-fe
+
+2. Install the dependencies:
+   npm install
+
+3. Run the development server:
+   npm run dev
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
